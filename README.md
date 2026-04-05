@@ -1,7 +1,12 @@
-# 📚 Sobre:
-Sou estudante de Ciência da Computação com experiência em desenvolvimento backend utilizando Python, Golang, Rust, TypeScript e JavaScript, além de frameworks como FastAPI, Axum, Gin e Express. 
+# 📚 About Me:
 
-## 🌐 Redes Sociais:
+* 🎓 Bachelor's degree in Computer Science, senior student at Universidade de Passo Fundo (UPF), with expected graduation in late 2026.
+* 🤖 Working as a Python RPA Developer at **Sicredi**, building and maintaining automation pipelines across corporate environments.
+* 📚 Currently deep-diving into distributed systems, RPA orchestration and modern Python tooling.
+* 🦀 Trying to learn Rust (emphasis on *trying*)
+
+
+# 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marco_santolin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrcsantolin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marco.antonio@santolin.com.br) 
 
 # 💻 Tech Stack:
